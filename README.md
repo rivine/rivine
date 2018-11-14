@@ -11,6 +11,11 @@ Blockchain technology for creating custom chains.
 
 You can reach out to us for any development-related questions on [our public Telegram group](https://t.me/rivine).
 
+Repository has been moved
+-----
+This repository is no longer active. Rivine has been moved to a new organization
+and its development is continued in its new home at <http://github.com/threefoldtech/jumpscale_lib>.
+
 Usage
 -----
 
